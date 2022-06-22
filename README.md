@@ -1,6 +1,6 @@
 # Engress 
 WordPressを用いた企業サイトの構築例
-https://https://toriumi.tech/
+http://toriumi.tech/
 XDデザインよりコーディングを行っております。
 Topの事例部分と料金部分はカスタムフィールドでクライアント様からも変更しやすくしており、
 お知らせ部分はカスタム投稿タイプで対応しました。
